@@ -1,0 +1,16 @@
+
+ˆ	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(ÁÀ‚ß8—¢šø1J$40f8ac26-7d29-45c4-973b-864524093fac
+ˆ	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(ÁÀ‚ß8”—¢šø1J$7e6aff14-9113-43a4-ba32-d9d677459733
+ˆ	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(ÁÀ‚ß8——¢šø1J$dbf41606-9413-41f2-a3a0-cf31d5e6eb7d
+—
+java:S1192&"TDefine a constant instead of duplicating this literal "A fila estÃ¡ vazia." 3 times.(ÁÀ‚ß8 —¢šø1J$0ef71f4e-f41b-40b8-8ed0-14390e7764d8
+]
+java:S1220""Move this file to a named package.8¦—¢šø1J$e23ac348-5ee8-4c8e-8f54-e890abded769
+r	java:S106N"+Replace this use of System.out by a logger.(ÀšÎÿÿÿÿÿÿ8‹˜¢šø1J$1ae85e2b-0701-4f99-b554-e60129c49e04
+m	java:S106O"+Replace this use of System.out by a logger.(™ƒÇƒ8˜¢šø1J$7388e8ea-4cce-404b-9b5e-ea3fef6f5833
+r	java:S106P"+Replace this use of System.out by a logger.(Ø€Èøÿÿÿÿ8’˜¢šø1J$78f800b6-784f-4e39-97e6-631928981a04
+m	java:S106Q"+Replace this use of System.out by a logger.(¨×òä8—˜¢šø1J$6490d83c-be5e-4853-a9f3-e5e6b680fc5d
+m	java:S106S"+Replace this use of System.out by a logger.(ÈÃî8œ˜¢šø1J$e86c0f6f-4915-409d-a2b0-f074f52c2af9
+r	java:S106T"+Replace this use of System.out by a logger.(µúºıÿÿÿÿ8 ˜¢šø1J$08e9d229-e7c7-40a6-9e0a-6d6cdd978beb
+r	java:S106U"+Replace this use of System.out by a logger.(­æõÇşÿÿÿÿ8¦˜¢šø1J$8ea2572b-fbfe-451d-afa2-e56c6862d7cf
+m	java:S106W"+Replace this use of System.out by a logger.(°Ö¬8«˜¢šø1J$0f108e7a-b52b-4145-9e91-f484c391cc7d
